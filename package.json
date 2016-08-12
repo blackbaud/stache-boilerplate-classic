@@ -4,6 +4,8 @@
   "description": "Boilerplate exploration into classic loader for stache-core",
   "main": "index.js",
   "scripts": {
+    "build": "stache-core build",
+    "serve": "stache-core serve",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
