@@ -1,0 +1,24 @@
+{
+  "name": "stache-boilerplate-classic",
+  "version": "0.0.1",
+  "description": "Boilerplate exploration into classic loader for stache-core",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/blackbaud/stache-boilerplate-classic.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/blackbaud/stache-boilerplate-classic/issues"
+  },
+  "homepage": "https://github.com/blackbaud/stache-boilerplate-classic#readme",
+  "dependencies": {
+    "blackbaud-stache-in-fs": "blackbaud/stache-in-fs",
+    "blackbaud-stache-out-classic": "blackbaud/stache-out-classic"
+  }
+}
