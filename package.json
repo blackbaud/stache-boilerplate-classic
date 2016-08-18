@@ -19,7 +19,7 @@
     "url": "https://github.com/blackbaud/stache-boilerplate-classic/issues"
   },
   "homepage": "https://github.com/blackbaud/stache-boilerplate-classic#readme",
-  "dependencies": {
+  "devDependencies": {
     "blackbaud-stache-in-fs": "blackbaud/stache-in-fs",
     "blackbaud-stache-out-classic": "blackbaud/stache-out-classic"
   }
